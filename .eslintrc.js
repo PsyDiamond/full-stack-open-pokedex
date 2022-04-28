@@ -2,8 +2,7 @@ module.exports = {
   "env": {
     "browser": true,
     "es6": true,
-    "jest/globals": true,
-    "PORT": 6060
+    "jest/globals": true
   },
   "extends": [
     "eslint:recommended",
